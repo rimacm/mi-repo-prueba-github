@@ -1,2 +1,2 @@
-# Mi-repo-prueba
+# Mi primer README
 Repositorio de prueba
